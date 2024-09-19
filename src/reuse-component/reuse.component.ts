@@ -20,7 +20,7 @@ export class ReuseComponent {
 
   name = 'Angular';
   ngOnInit(){
-    console.log("Hello",this.className);
+//    console.log("Hello",this.className);
 
   }
 }
